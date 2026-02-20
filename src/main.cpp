@@ -2,6 +2,8 @@
 /**
  * @file main.cpp
  * @brief Embedded Distance Measurement using Ultrasonic Sensor
+ * @details Measures distance with an HC-SR04 ultrasonic sensor and prints
+ *          structured output to the Serial Monitor.
  * @author yatendraguptacsaiml24-hub (Yatendra Kumar Gupta)
  * @date 20-02-2026
  *
